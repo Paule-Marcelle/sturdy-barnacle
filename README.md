@@ -1,2 +1,1 @@
-# sturdy-barnacle
-DS
+La distance de Chebyshev, également connue sous le nom de distance de l'infini, est une mesure de distance entre deux vecteurs dans un espace à n dimensions. Elle est définie comme le maximum des différences absolues entre les composantes correspondantes des deux vecteurs.
